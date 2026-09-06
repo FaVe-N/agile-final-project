@@ -7,5 +7,6 @@ assignees: ''
 
 ---
 
-As a [user]
-I need to[need]
+**As a** [user]
+**I need to** [need]
+**So that** [reason]
